@@ -1,5 +1,5 @@
 <p align=center>
-<img target = "banner" src="https://raw.githubusercontent.com/AmberTiger/Alien-Invasion/main/Untitled.png?token=GHSAT0AAAAAABXEXWQJRWKCH7MX2AYFMYIQYXF4EEA">
+<img target = "banner" src="https://raw.githubusercontent.com/AmberTiger/Alien-Invasion/main/banner.png">
 </p>
 
 <p align=center>
@@ -29,4 +29,5 @@ After installing VScode and Python, download the extension in VSCode as follow:
 * code runner
 
 Done it and Run code
+
 
