@@ -7,7 +7,11 @@
 <a target="badge" href="https://github.com/AmberTiger/Alien-Invasion" title="visual studio version" title="os:windows"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" width=85/></a>  
 </p>
 
->Shoot all of the aliens before they invade Earth!
+## Project Name
+Alien Invasion
+
+## Introduction
+Shoot all of the aliens before they invade Earth!
 
 ## Download source code
 In order to run the game, make sure that you have python 3.9.5 and the python packages as below.
@@ -29,5 +33,6 @@ After installing VScode and Python, download the extension in VSCode as follow:
 * code runner
 
 Done it and Run code
+
 
 
